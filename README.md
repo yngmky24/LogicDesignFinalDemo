@@ -26,4 +26,4 @@ LED lights is ball life.
 When the ball hit the block, it will trigger the beep sound.
 Thank You~
 
-Chinese Version please translate here : https://translate.google.com/
+Chinese Version please translate here : https://translate.google.com/ 😊
