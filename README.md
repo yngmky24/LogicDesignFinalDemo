@@ -18,7 +18,8 @@
 <br>
 <br>LED lights is ball life.
 <br>7-Segment represent the score board.
-<br>8X8 LED : Red Color = Platform
+<br>8X8 LED :
+<br>          Red Color = Platform
 <br>          Green Color = Ball
 <br>          Blue Color = Block
 <br>      
