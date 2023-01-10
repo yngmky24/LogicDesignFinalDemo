@@ -25,5 +25,5 @@
 <br>When the ball hit the block, it will trigger the beep sound.
 <br>
 <br>Chinese Version please translate here : https://translate.google.com/ 
-<br>Sorry for the inconvenience. :)
+<br>Sorry for the inconvenience :)
 <br>Thank You~
